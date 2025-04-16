@@ -26,7 +26,7 @@ Try the live demo:
 
 ---
 
-## 🔗 Hugging Face Resources
+## 🔗 HuggingFace Resources
 
 - **Dataset**: [jaguaridentification](https://huggingface.co/datasets/jaguaridentification)
 - **App**: [Jaguar Identification App](https://huggingface.co/spaces/shahabdaiani/jaguar_identification_app)
