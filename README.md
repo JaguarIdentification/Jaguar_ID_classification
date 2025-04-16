@@ -1,11 +1,11 @@
 # Jaguar Identification Project
 
-This project aims to identify individual jaguars using computer vision and deep learning techniques.
+This project aims to identify individual jaguars using computer vision techniques.
 
 It includes:
 
-- A user-facing app to identify jaguars, hosted on Hugging Face Spaces.
-- A curated dataset of jaguar images, hosted on Hugging Face.
+- A user-facing app to identify jaguars, hosted on HuggingFace Spaces.
+- A curated dataset of jaguar images, hosted on HuggingFace.
 - An upcoming Kaggle competition to encourage further research and development.
 
 ---
@@ -13,7 +13,7 @@ It includes:
 ## 🚀 App
 
 Try the live demo:  
-👉 [Jaguar Identification App on Hugging Face Spaces](https://huggingface.co/spaces/shahabdaiani/jaguar_identification_app)
+👉 [Jaguar Identification App on HuggingFace Spaces](https://huggingface.co/spaces/shahabdaiani/jaguar_identification_app)
 
 ---
 
