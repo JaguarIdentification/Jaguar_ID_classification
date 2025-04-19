@@ -1,8 +1,12 @@
 # Jaguar Identification Project
 
-This project aims to identify individual jaguars using computer vision techniques.
+The Jaguar Identification Project is dedicated to the long-term study and conservation of jaguars in Brazil’s Pantanal. You can learn more about it on https://www.jaguaridproject.com/ 
 
-It includes:
+## Re-identification Models
+
+Our re-identificaion models identify individual jaguars using computer vision techniques.
+
+This repository includes:
 
 - A user-facing app to identify jaguars, hosted on HuggingFace Spaces.
 - A curated dataset of jaguar images, hosted on HuggingFace.
