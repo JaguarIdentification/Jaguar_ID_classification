@@ -1,6 +1,8 @@
 # Jaguar Identification Project
 
-The Jaguar Identification Project is dedicated to the long-term study and conservation of jaguars in Brazil’s Pantanal. You can learn more about it on https://www.jaguaridproject.com/ 
+The Jaguar Identification Project is a citizen-science initiative dedicated to the long-term study and conservation of jaguars in Brazil’s Pantanal. 
+
+You can learn more about it on https://www.jaguaridproject.com/ 
 
 ## Re-identification Models
 
