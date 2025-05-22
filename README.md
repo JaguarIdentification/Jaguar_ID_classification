@@ -1,5 +1,7 @@
 # 🐆 Jaguar Identification Project
 
+![](https://github.com/andandandand/practical-computer-vision/blob/main/images/jaguars_fo_2.png?raw=true)
+
 The Jaguar Identification Project is a citizen-science initiative dedicated to the long-term study and conservation of jaguars in Brazil’s Pantanal. 
 
 You can learn more about it on https://www.jaguaridproject.com/ 
@@ -19,7 +21,7 @@ This repository includes:
 ## 🚀 App
 
 Try the live demo:  
-👉 [Jaguar Identification App on HuggingFace Spaces](https://huggingface.co/spaces/shahabdaiani/jaguar_identification_app)
+👉 [Jaguar Identification App on Hugging Face Spaces](https://huggingface.co/spaces/shahabdaiani/jaguar_identification_app)
 
 ---
 
