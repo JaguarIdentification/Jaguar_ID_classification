@@ -1,0 +1,6 @@
+.venv
+.env
+datasets/*
+notebooks/01_data_exploration/mobileclip_blt.ts
+notebooks/01_data_exploration/yoloe-11m-seg.pt
+notebooks/01_data_exploration/yoloe-11s-seg.pt
