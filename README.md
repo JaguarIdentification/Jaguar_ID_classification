@@ -1,4 +1,4 @@
-# Jaguar Identification Project
+# 🐆 Jaguar Identification Project
 
 The Jaguar Identification Project is a citizen-science initiative dedicated to the long-term study and conservation of jaguars in Brazil’s Pantanal. 
 
@@ -10,8 +10,8 @@ Our re-identificaion models identify individual jaguars using computer vision te
 
 This repository includes:
 
-- A user-facing app to identify jaguars, hosted on HuggingFace Spaces.
-- A curated dataset of jaguar images, hosted on HuggingFace.
+- A user-facing app to identify jaguars, hosted on Hugging Face Spaces.
+- Tools to produce a [curated dataset of jaguar images](https://huggingface.co/datasets/jaguaridentification/jaguars), hosted on Hugging Face.
 - An upcoming Kaggle competition to encourage further research and development.
 
 ---
